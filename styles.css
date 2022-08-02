@@ -1,0 +1,50 @@
+body{
+  background-color: #F5EDDC;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1rem;
+  text-align: center
+}
+
+h1{
+  font-family: 'Pacifico', cursive;
+  font-weight: 700;
+  font-size: 7rem;
+  line-height: 70px;
+}
+
+h2{
+  display: inline-block;
+  font-size: 2rem;
+  position: absolute;
+  margin-left: 145px;
+}
+
+.player2{
+  margin-left: 550px;
+}
+
+img{
+  margin: 150px 50px 110px 50px;
+  max-width: 300px;
+}
+
+button{
+  background:    #f5eddc;
+  border:        4px solid #000000;
+  border-radius: 1000px;
+  padding:       20px 45px;
+  color:         #000000;
+  display:       block;
+  font:          normal bold 26px/1 "PT Sans", sans-serif;
+  font-size:     1.2rem;
+  text-align:    center;
+  margin: auto;
+}
+
+button:hover{
+  background: #E0DBD1;
+}
+
+footer{
+  margin-top: 100px;
+}
